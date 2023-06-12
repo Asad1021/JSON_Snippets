@@ -2,7 +2,7 @@
 Using JSON Snippets in Visual Studio Code
 This repository contains JSON snippets that can be used in Visual Studio Code to enhance your development workflow. JSON snippets provide a convenient way to insert commonly used code templates or snippets with just a few keystrokes.
 
-Getting Started
+# Getting Started
 To use the JSON snippets in Visual Studio Code, follow these steps:
 
 Make sure you have Visual Studio Code installed on your computer. If you don't have it, you can download it from the official website.
@@ -25,7 +25,7 @@ Paste the contents you copied from the html.code-snippets file into the html.jso
 
 Save the html.json file.
 
-Using the JSON Snippets
+# Using the JSON Snippets
 Once you have added the JSON snippets, you can start using them in your HTML files. Here's how:
 
 Open an HTML file in Visual Studio Code.
@@ -38,7 +38,7 @@ Customize the inserted snippet as needed, such as modifying text, adding attribu
 
 Continue coding and enjoy the improved development experience with these JSON snippets!
 
-Snippet List
+# Snippet List
 Here is a list of the available JSON snippets included in this repository:
 
 htm: Inserts a basic HTML structure with doctype, html, head, and body tags.
@@ -47,12 +47,12 @@ cpp: Inserts a template for C++ code.
 
 c: Inserts a template for C code.
 
-Customizing Snippets
+# Customizing Snippets
 If you want to customize the existing JSON snippets or create your own snippets, you can modify the html.json file. Refer to the Visual Studio Code documentation on User Snippets for more details on customizing snippets.
 
-Contributing
+# Contributing
 If you have additional useful JSON snippets that you would like to share, feel free to contribute to this repository. You can create a pull request to submit your changes, and your snippets can be added to the collection for others to use.
 
-License
+# License
 This repository is licensed under the MIT License. Feel free to use and modify the JSON snippets to suit your needs.
 
